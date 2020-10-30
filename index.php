@@ -8,7 +8,7 @@
         <img src="cat.jpg">
         <img src="cat2.jpg">
         <br>
-        <a href="https://genshin.mihoyo.com/th">This is a Link</a>
+        <a href="https://genshin.mihoyo.com/th">เกมกาชาสุดมันส์ที่เกลือมากๆ</a>
 
         <h2>เรื่องตลก(ที่อับอายนิดๆ)</h2>
         <ul>
