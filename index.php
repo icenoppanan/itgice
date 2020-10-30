@@ -1,20 +1,22 @@
 <html>
     <head>
-        <title>Hello world</title>
+        <title>ส่งงาน คลาส ITF</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
+        <h1>My name is</h1>
+        <p>นพนันทน์ ปั้นบำรุงสุข ไอซ์</p>
         <img src="cat.jpg">
+        <img src="cat2.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <a href="https://genshin.mihoyo.com/th">This is a Link</a>
 
-        <h2>The unordered</h2>
+        <h2>เรื่องตลก(ที่อับอายนิดๆ)</h2>
         <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
+            <li>มีวันนึงผมเล่นเกมยันเช้า ผมง่วงมาก แต่หิวมากกว่า จึงเดินไปซื้อข้าวที่7/11</li>
+            <li>แต่ตอนก่อนออกจากห้อง ผมใส่แค่กางเกงบ็อคเซอร์ตัวเดียว แล้วเดินลงไปซื้อข้าวโดยที่ไม่รู้</li>
+            <li>คนมองกันทั้ง7/11เนื่องจากตอนนั้นอากาศมันเย็น+เช้าอยู่ กางเกงผมมันเลยนูน คนเลยเห็นกันหมด แฮร่</li>
+            <li>เก็บไว้อ่านคนเดียว อย่าไปบอกใครนะครับ แฮร่</li>
         </ul>
-        
+
     </body>
 </html>
