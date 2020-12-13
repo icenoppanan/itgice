@@ -1,0 +1,6 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+%config InlineBackend.figure_format = 'retina'
+df=pd.read_csv('https://github.com/Passakorn777/PSIT63/raw/main/data/COMPANIES.csv')
+df.sample(10)
